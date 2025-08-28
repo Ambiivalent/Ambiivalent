@@ -1,4 +1,7 @@
-## Hi there 👋
+<div align="center">
+  <img src=https://www.memoriabit.com.br/wp-content/uploads/2013/12/chrono-trigger-banner-gif.gif alt="Greatest Gif of All Time" />
+
+</div>
 
 <!--
 **Ambiivalent/Ambiivalent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
